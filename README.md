@@ -1,5 +1,5 @@
 ### Hi, I'm Matteo 👋
-I'm a master's student in computer science, passionate about artificial intelligence and its applications. I'm currently working on my thesis project, which involves using reinforcement learning and combinatorial optimization to solve a tsp with time-lag problem. 🧠
+I'm a master's student in AI at Unibo, passionate about artificial intelligence and its applications. I'm currently working on my thesis project, which involves using reinforcement learning and combinatorial optimization to solve a tsp with time-lag problem. 🧠
 
 Some of the domains that interest me the most are robotics and video games. I love to explore how AI can enhance the capabilities and behaviors of robots and NPCs. My dream is to create more realistic and immersive gaming experiences using the knowledge and skills I have acquired. 🎮
 
