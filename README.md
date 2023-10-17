@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Matteo 👋
+I'm a master's student in computer science, passionate about artificial intelligence and its applications. I'm currently working on my thesis project, which involves using reinforcement learning and combinatorial optimization to solve a tsp with time-lag problem. 🧠
+
+Some of the domains that interest me the most are robotics and video games. I love to explore how AI can enhance the capabilities and behaviors of robots and NPCs. My dream is to create more realistic and immersive gaming experiences using the knowledge and skills I have acquired. 🎮
+
+Feel free to check out my projects and connect with me on github. I'm always open to new challenges and opportunities. 😊
+
 
 <!--
 **rrMat/rrMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
