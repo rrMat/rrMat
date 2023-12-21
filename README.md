@@ -3,6 +3,8 @@ I'm a master's student in AI at Unibo, passionate about artificial intelligence 
 
 Some of the domains that interest me the most are robotics and video games. I love to explore how AI can enhance the capabilities and behaviors of robots and NPCs. My dream is to create more realistic and immersive gaming experiences using the knowledge and skills I have acquired. 🎮
 
+In the free time I like to experiment with stable diffusion models, I'm learning how to do character learning using DreamBooth an LoRA. 
+
 Feel free to check out my projects and connect with me on github. I'm always open to new challenges and opportunities. 😊
 
 
